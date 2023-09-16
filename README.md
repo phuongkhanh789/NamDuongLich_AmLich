@@ -7,5 +7,5 @@
 #### Năm âm = Can + Chi
 ##### Can = Năm dương % 10 :
 ###### 0 : Canh , 1 : Tân , 2 : Nhâm , 3 : Quý , 4 : Giáp , 5 : Ất , 6 : Bính , 7 : Đinh , 8 : Mậu , 9 : Kỷ
-###### Chi = Năm dương % 12 :
+##### Chi = Năm dương % 12 :
 ###### 0 : Thân , 1 : Dậu , 2 : Tuất , 3 : Hợi , 4 : Tý , 5 : Sửu , 6 : Dần , 7 : Mẹo , 8 : Thìn , 9 : Tỵ, 10 : Ngọ , 11 : Mùi
